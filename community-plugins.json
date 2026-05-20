@@ -28005,5 +28005,12 @@
     "author": "arturtupiassu",
     "description": "This plugin has not been manually reviewed by Obsidian staff. Add an emoji from frontmatter to the File Explorer title. Now supports inherit_emoji for folders.",
     "repo": "arturtupiassu/emoji-title-plugin"
+  },
+  {
+    "id": "watermark-s3-uploader",
+    "name": "Watermark S3 Uploader",
+    "author": "Claudia Fang",
+    "description": "This plugin has not been manually reviewed by Obsidian staff. Upload images to Cloudflare R2 or any S3-compatible storage. Features: WebP conversion, image compression, text & logo watermark with live preview.",
+    "repo": "firstsun-dev/watermark-s3-uploader"
   }
 ]
