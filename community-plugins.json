@@ -28007,7 +28007,7 @@
     "repo": "arturtupiassu/emoji-title-plugin"
   },
   {
-    "id": "watermark-s3-uploader",
+    "id": "watermark-bucket-uploader",
     "name": "Watermark S3 Uploader",
     "author": "Claudia Fang",
     "description": "This plugin has not been manually reviewed by Obsidian staff. Upload images to Cloudflare R2 or any S3-compatible storage. Features: WebP conversion, image compression, text & logo watermark with live preview.",
